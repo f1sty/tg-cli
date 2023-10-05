@@ -1,3 +1,4 @@
 [submodule "tgl"]
-	path = tgl
-	url = https://github.com/kenorb-contrib/tgl.git
+        path = tgl
+	url = git@github.com:f1sty/tgl.git
+	branch = master
